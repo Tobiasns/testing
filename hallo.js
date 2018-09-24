@@ -10,7 +10,11 @@ function hello(){
     }
     console.log(z);
     console.log("This is who I am");
+<<<<<<< HEAD
     console.log("I SAAAID THIS IS WHO I AM. Didn't intend to sound aggressive...");
+=======
+    console.log("I SAAAID THIS IS WHO I AM");
+>>>>>>> 224a099ca9a17e0507dcbbcd7e20f8881ef0dc99
     return z;
 }
 
