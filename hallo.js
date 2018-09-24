@@ -11,6 +11,7 @@ function hello(){
     console.log(z);
     console.log("This is who I am");
     console.log("I SAAAID THIS IS WHO I AM. Didn't intend to sound aggressive...");
+    console.log("Tilfeldig egentlig")
     return z;
 }
 
