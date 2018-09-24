@@ -10,6 +10,7 @@ function hello(){
     }
     console.log(z);
     console.log("This is who I am");
+    console.log("I SAAAID THIS IS WHO I AM");
     return z;
 }
 
