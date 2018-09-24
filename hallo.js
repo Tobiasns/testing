@@ -9,8 +9,12 @@ function hello(){
         }
     }
     console.log(z);
+    console.log("This is who I am");
     return z;
 }
+
+
+
 
 
 
