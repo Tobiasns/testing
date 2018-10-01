@@ -8,7 +8,14 @@
     <title>Document</title>
 </head>
 <body onload="hello()">
-    <p>Hei dette er min nettside! Her kan du få se tallet mitt:</p>
+    <p>Hei dette er min nettside!</p><br>
+    
+    <button type="button"
+    onclick="document.getElementById('demo').innerHTML = Date()">
+    Click me to display Date and Time.</button>
+
+    <p id="demo"></p>
+
     
 </body>
 </html>
